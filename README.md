@@ -1,6 +1,8 @@
 # To-do-List *DESKTOP version*
 CHECK AT : https://to-do-list-jv92.onrender.com
 
+A to-do web app that's connected to database and you can have your own version that will rememer only your stuff just use "/" + the name you want and boom you have your own.
+
 step by step of the upload:
 
 
